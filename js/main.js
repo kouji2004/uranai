@@ -13,6 +13,6 @@ btn = addEventListener("click", ()=> {
   }else if(num<0.8){
     result.textContent = "気を付けて";
 }else{
-  result.textContent = "やばい";
+  result.textContent = "さいあく～";
 }
 });
