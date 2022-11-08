@@ -23,7 +23,7 @@
 } */
 
 /* ⓸class属性を追加する/解除する */
-.box1 {
+/* .box1 {
   background-color: #FF0000;
   height: 200px;
   width: 200px;
@@ -31,4 +31,24 @@
 
 .box1-ext {
   border: 10px solid black;
+} */
+
+
+.box1{
+  background-color: #FFFFFF;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+.bg1{
+  background-color: aliceblue;
+}
+.bg2{
+  background-color: antiquewhite;
+}
+.bg3{
+  background-color: aqua;
+}
+.bg4{
+  background-color: aquamarine;
 }
