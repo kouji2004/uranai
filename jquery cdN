@@ -1,0 +1,11 @@
+jquery cdn の流れ(2022 年版　最新)
+まずは
+こちらの URL から遷移
+⓵URL→https://releases.jquery.com/
+⓶ 遷移したら jQuery 3.x 　の　 minified を選択する。
+⓷Code Integration 画面が出たらコピーする
+
+<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+
+⓸ コピーしたら index.html ファイルの<head>に挿入する
+これで jquery の構築はおｋ
