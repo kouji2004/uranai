@@ -4,3 +4,11 @@ $(function(){
     "height":"100px",
   });
 });
+
+$(function(){
+  $(".box1").slideDown();
+})
+
+$(function(){
+  $('.box1').slideUp();
+})
