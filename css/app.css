@@ -8,9 +8,16 @@
 
 
 
-/* 表示されている要素をjQueryで非表示にする */
+/* 表示されている要素をjQueryで非表示にする
 .box1 {
-  /* display: none; を削除 */  background-color: #FF0000;
+  background-color: #FF0000;
+  height: 200px;
+  width: 200px;
+} */
+
+/* jQueryで「マウスオーバー」イベントを設定する */
+.box1 {
+  background-color: #FF0000;
   height: 200px;
   width: 200px;
 }
