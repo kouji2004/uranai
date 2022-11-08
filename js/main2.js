@@ -12,3 +12,4 @@ $(function(){
 $(function(){
   $('.box1').slideUp();
 })
+

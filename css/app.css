@@ -1,6 +1,16 @@
-.box1{
+ /* box1の色を青色に変更 */
+/* .box1{
   display: none;
   background-color: #ff0000;
+  height: 200px;
+  width: 200px;
+} */
+
+
+
+/* 表示されている要素をjQueryで非表示にする */
+.box1 {
+  /* display: none; を削除 */  background-color: #FF0000;
   height: 200px;
   width: 200px;
 }
